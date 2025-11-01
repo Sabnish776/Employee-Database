@@ -10,7 +10,6 @@ Users can add, update, delete, and view data through a menu-driven Java console 
 Files:
 - DBConnection.java → connects to Oracle Database
 - DepartmentService.java, JobService.java, EmployeeService.java → handle database operations
-- model/ → contains data models
 - database/ → contains SQL scripts to create and populate tables
 
 Database Setup Instructions:
